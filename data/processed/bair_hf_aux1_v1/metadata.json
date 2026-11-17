@@ -1,0 +1,27 @@
+{
+  "source": "parquet",
+  "camera": "image_aux1",
+  "seed": 4620,
+  "validation_fraction": 0.1,
+  "max_train_clips": null,
+  "max_test_clips": null,
+  "context": 3,
+  "max_horizon": 10,
+  "action_convention": "action[t] maps frame[t] to frame[t+1]",
+  "manifest_sha256": "4f5a0a961871b4df1fa7ce0d28d2eb9d434cd7f51a00ece6ab0f4e05253da94a",
+  "parquet_provenance": {
+    "repository": "guyuchao/BAIR",
+    "revision": "776ad3b",
+    "sources": [
+      "https://huggingface.co/datasets/guyuchao/BAIR/resolve/776ad3b/shard-00000.tar",
+      "https://huggingface.co/datasets/guyuchao/BAIR/resolve/776ad3b/shard-00004.tar"
+    ],
+    "counts": {
+      "train": 1000,
+      "test": 256
+    },
+    "camera": "image_aux1",
+    "format": "MP4 bytes plus 30x4 action arrays",
+    "note": "Source-order subset of community-reencoded BAIR; not the full raw-pixel release."
+  }
+}

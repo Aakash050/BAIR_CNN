@@ -1,0 +1,4 @@
+reference,candidate,horizon,improvement_percent,ci_low,ci_high,point_estimate_meets_10_percent,clips
+persistence,model_a_single_step,5,23.109253077405423,12.237944565138665,32.126345265623264,True,100
+persistence,model_b_multi_step,5,51.450158248295175,45.15046078162823,56.3667520584464,True,100
+model_a_single_step,model_b_multi_step,10,45.79113695778769,41.503509758402984,49.86115427317659,True,100

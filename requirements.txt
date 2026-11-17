@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+torch>=2.6
+scikit-image
+tensorflow>=2.16
+tensorflow-datasets>=4.9
+jupyterlab
+nbformat
+pyarrow
+av

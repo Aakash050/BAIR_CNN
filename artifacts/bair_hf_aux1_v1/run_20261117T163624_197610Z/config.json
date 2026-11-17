@@ -1,0 +1,15 @@
+{
+  "seed": 4620,
+  "width": 32,
+  "batch_size": 32,
+  "epochs": 10,
+  "learning_rate": 0.001,
+  "train_horizon": 5,
+  "validation_horizon": 10,
+  "max_batches_per_epoch": null,
+  "gradient_clip": 1.0,
+  "manifest_sha256": "4f5a0a961871b4df1fa7ce0d28d2eb9d434cd7f51a00ece6ab0f4e05253da94a",
+  "camera": "image_aux1",
+  "torch_version": "2.9.1",
+  "device": "mps"
+}

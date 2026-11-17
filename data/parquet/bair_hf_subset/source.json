@@ -1,0 +1,15 @@
+{
+  "repository": "guyuchao/BAIR",
+  "revision": "776ad3b",
+  "sources": [
+    "https://huggingface.co/datasets/guyuchao/BAIR/resolve/776ad3b/shard-00000.tar",
+    "https://huggingface.co/datasets/guyuchao/BAIR/resolve/776ad3b/shard-00004.tar"
+  ],
+  "counts": {
+    "train": 1000,
+    "test": 256
+  },
+  "camera": "image_aux1",
+  "format": "MP4 bytes plus 30x4 action arrays",
+  "note": "Source-order subset of community-reencoded BAIR; not the full raw-pixel release."
+}

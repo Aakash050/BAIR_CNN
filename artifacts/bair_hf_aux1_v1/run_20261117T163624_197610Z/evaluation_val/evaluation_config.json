@@ -1,0 +1,20 @@
+{
+  "split": "val",
+  "horizons": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "motion_threshold": 0.0392156862745098,
+  "manifest_sha256": "4f5a0a961871b4df1fa7ce0d28d2eb9d434cd7f51a00ece6ab0f4e05253da94a",
+  "window_start": 0,
+  "context": 3,
+  "ssim": "skimage; win_size=7; gaussian_weights=False; data_range=1; channel_axis=-1"
+}
